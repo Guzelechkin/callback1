@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ru.netology.web.CallbackTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-02-23T06:14:49" hostname="WIN-DL9MC1NSRMP" time="9.044">
+<testsuite name="ru.netology.web.CallbackTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-02-23T06:46:28" hostname="WIN-DL9MC1NSRMP" time="6.298">
   <properties/>
-  <testcase name="shouldBeSuccessfulForm()" classname="ru.netology.web.CallbackTest" time="9.044"/>
+  <testcase name="shouldBeSuccessfulForm()" classname="ru.netology.web.CallbackTest" time="6.298"/>
   <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[февр. 23, 2024 11:14:53 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+  <system-err><![CDATA[февр. 23, 2024 11:46:31 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find CDP implementation matching 121
-февр. 23, 2024 11:14:53 AM org.openqa.selenium.chromium.ChromiumDriver lambda$new$5
+февр. 23, 2024 11:46:31 AM org.openqa.selenium.chromium.ChromiumDriver lambda$new$5
 WARNING: Unable to find version of CDP to use for 121.0.6167.185. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.11.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
 ]]></system-err>
 </testsuite>
